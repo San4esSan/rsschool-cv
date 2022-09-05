@@ -1,18 +1,15 @@
-[**rsschool-cv**](https://San4esSan.github.io/rsschool-cv/cv)
-
 # **Aleksandr Kononov**
 
 ## Contacts
 * **Location**: Sarapul, Russia
 * **Phone**: +79991890462
 * **Email**: [mister.San4es@list.ru](mister.San4es@list.ru)
-* **GitHub**: [San4esSan](https://github.com/San4esSan)
 
-# About Me
+## About Me
 
 Мне 42 года.  Я хочу поменять свою сферу деятельности,  изучить фронтенд.  Достижений в области програмирования пока не имею, так как  только начинаю свой путь в сфере IT.
 
-# Skills
+## Skills
 * Html, CSS,
 * Preprocessor: SASS, SCSS
 * JavaScript (Basic)
@@ -20,7 +17,7 @@
 * Module Bundlers: Gulp, Webpack
 * Figma, Photoshop
 
-# Code Example
+## Code Example
 
 ```
 import React from 'react';
@@ -36,12 +33,12 @@ root.render(
 );
 ```
 
-# Education
+## Education
 * University: Izhevsk State Agricultural Academy, specialty - accounting, analysis and audit
 * Courses:
   + Vadim Prokapchuk HTML, CSS
   + GLO Academy JavaScript
 
-# Language
+## Language
 * Russian (native)
 * English (write and read with a dictionary)
