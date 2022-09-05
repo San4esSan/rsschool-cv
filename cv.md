@@ -12,6 +12,7 @@
 ---
 # About Me
 
+Мне 42 года.  Я хочу поменять свою сферу деятельности,  изучить фронтенд.  Достижений в области програмирования пока не имею, так как  только начинаю свой путь в сфере IT.
 
 # Skills
 * Html, CSS,
@@ -23,6 +24,18 @@
 ---
 # Code Example
 
+```import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './App';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
+```
 
 # Education
 * University: Izhevsk State Agricultural Academy, specialty - accounting, analysis and audit
@@ -32,3 +45,4 @@
 
 # Language
 * Russian (native)
+* English (write and read with a dictionary)
